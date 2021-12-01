@@ -1,14 +1,22 @@
-File descriptions
-1) mfa_scripts
+# File repository for 13C-metabolic flux analysis of yeasts
+This repository provides Supplementary files regarding 13C-metabolic flux analysis (13C-MFA) that is part of the manuscript "Title".<br>
+<br>
+#### File descriptions
+**1) mfa_scripts**<br>
 Source MATLAB scripts to run 13C-MFA. Available at https://github.com/maranasgroup/SteadyState-MFA.
 
-2) run_scripts
+**2) run_scripts**<br>
 Scripts that combine and arrange source MATLAB 13C-MFA scripts.
 
-3) resources
+**3) resources**<br>
 Collected resources regarding carbon mappings and other setups to run 13C-MFA scripts
 
-4) mfa
-13C-MFA run file and results. Separated into directories for each organism.
-- S. cerevisiae
-- I. orientalis
+**4) mfa**<br>
+13C-MFA run files and results, arranged by directory for each organism.<br>
+* ***./mfa/organism/metabolic_rxns_mappings***: Metabolic network and carbon mappings of metabolic reactions only. The input files are generated from this metabolic_rxns_mappings and ./resources/dilutions_network_modules.xlsx
+* ***./mfa/organism/run_files***: list of input files for 13C-MFA software run
+* ***./mfa/organism/result_files***: processed output files containing simulated 13C-labeling patterns and best-fit metabolic fluxes
+    
+There are the following organisms in this repository:
+* Saccharomyces cerevisiae
+* Issatchenkia orientalis
