@@ -1,0 +1,3 @@
+Metabolite	Tracer Name	fraction	nCarbons	position	purity	experiment_id
+glc__D_out	U-[13C-Glc]	0.5	6	1,2,3,4,5,6	100	1
+glc__D_out	1,2-[13C-Glc]	0.5	6	1,2	100	2
