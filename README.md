@@ -18,5 +18,5 @@ Collected resources regarding carbon mappings and other setups to run 13C-MFA sc
 * ***./mfa/organism/result_files***: processed output files containing simulated 13C-labeling patterns and best-fit metabolic fluxes
     
 There are the following organisms in this repository:
-* Saccharomyces cerevisiae
-* Issatchenkia orientalis
+* *Saccharomyces cerevisiae*: 14 datasets
+* *Issatchenkia orientalis*: 16 datasets
