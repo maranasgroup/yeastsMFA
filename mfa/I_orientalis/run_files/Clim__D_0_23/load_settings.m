@@ -4,8 +4,8 @@ path_runscripts = '../../../../run_scripts/';
 path_case = './';
 path_expmt = './';
 
-gem_file = './imIsor_GEM_SIMMER_completeMFA_Clim__D_0_23.xlsx';
-amm_file = './imIsor_AMM_SIMMER_completeMFA_Clim.xlsx';
+gem_file = './imIsor_GEM_completeMFA_Clim__D_0_23.xlsx';
+amm_file = './imIsor_AMM_completeMFA_Clim__D_0_23.xlsx';
 expmt_files = {'data_expmt1.xlsx', 'data_expmt2.xlsx'};
 expmt_ids = {'expmt1', 'expmt2'};
 

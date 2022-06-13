@@ -1,11 +1,11 @@
 %%% ADD DIR TO PATHS %%%
-path_scripts = '../../../../mfa_scripts/';
-path_runscripts = '../../../../run_scripts/';
-path_case = './';
+path_scripts = '../../../mfa_scripts_v4/';
+path_runscripts = '../../../run_scripts/';
+path_case = '../';
 path_expmt = './';
 
-gem_file = './scGEM_CENPK_completeMFA.xlsx';
-amm_file = './scAMM_CENPK_completeMFA.xlsx';
+gem_file = '../scGEM_CENPK_completeMFA.xlsx';
+amm_file = '../scAMM_CENPK_completeMFA.xlsx';
 expmt_files = {'data_expmt1.xlsx', 'data_expmt2.xlsx'};
 expmt_ids = {'expmt1', 'expmt2'};
 
@@ -33,7 +33,7 @@ vbs = {{'BIOMASS.f', 0, 0.0001},...
 run_safe = false;
 
 % Find best-fit enabling
-run_bestfit = true;
+run_bestfit = false;
 
 % Run flux confidence interval estimation enabling
 run_fconf = true;
