@@ -1,5 +1,8 @@
 # File repository for 13C-metabolic flux analysis of yeasts
-This repository provides Supplementary files regarding 13C-metabolic flux analysis (13C-MFA) that is part of the manuscript "Title".<br>
+This repository provides Supplementary files regarding 13C-metabolic flux analysis (13C-MFA) that is part of the manuscript:<br>
+**Proteome capacity constraints favor respiratory ATP generation**<br>
+Yihui Shen, Hoang V. Dinh, Edward Cruz, Catherine M. Call, Heide Baron, Rolf-Peter Ryseck, Jimmy Pratas, Arjuna Subramanian, Zia Fatma, Daniel Weilandt, Sudharsan Dwaraknath, Tianxia Xiao, John I. Hendry, Vinh Tran, Lifeng Yang, Yasuo Yoshikuni, Huimin Zhao, Costas D. Maranas, Martin Wuhr, Joshua D. Rabinowitz<br>
+bioRxiv 2022.08.10.503479; doi: https://doi.org/10.1101/2022.08.10.503479
 <br>
 #### File descriptions
 **1) mfa_scripts**<br>
