@@ -1,4 +1,6 @@
 #### File descriptions
+Please cite Shen et al., 2022 if you use the resources in here<br>
+<br>
 **1) carbon_mappings_and_annotations.xlsx (version: 2021-05-01)**<br>
 Contain mappings of carbon atoms between metabolites in a reactions. In addition, annotations of database entries for reactions and the information source of carbon mappings are also provided (this is specifically for yeasts, not for other organisms). Annotations of functional group and adjacent carbon atoms are provided for carbon atoms to facilitate future usage and re-examiniation.
 

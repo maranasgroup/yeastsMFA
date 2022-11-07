@@ -1,5 +1,8 @@
 #### File descriptions
 Organism: Saccharomyces cerevisiae<br>
+Strain: CEN.PK2 ("CENPK") and FY4 ("FY4", "Clim", and "Nlim")<br>
+Publication: Shen et al., 2022<br>
+
 Growing in batch conditions: "batch"<br>
 * Strain CEN.PK: CENPK
 * Strain FY4: FY4

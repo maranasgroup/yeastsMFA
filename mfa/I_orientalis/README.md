@@ -1,5 +1,6 @@
 #### File descriptions
 Organism: Issatchenkia orientalis<br>
+Strain: SD108<br>
 Growing in batch conditions: "batch"<br>
 Growing in continuous conditions: "C/N/Plim__D_0_12/18/23/34/45"<br>
 * C/N/Plim: Carbon, nitrogen, or phosphate limited condition

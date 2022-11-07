@@ -4,17 +4,17 @@ path_runscripts = '../../../../run_scripts/';
 path_case = './';
 path_expmt = './';
 
-gem_file = './scGEM_CENPK_completeMFA.xlsx';
-amm_file = './scAMM_CENPK_completeMFA.xlsx';
+gem_file = './scGEM_pda1_completeMFA.xlsx';
+amm_file = './scAMM_pda1_completeMFA.xlsx';
 expmt_files = {'data_expmt1.xlsx', 'data_expmt2.xlsx'};
-expmt_ids = {'expmt1', 'expmt2'};
+expmt_ids = {'expmt1','expmt2'};
 
 addpath(path_scripts, path_case, path_expmt, path_runscripts)
 
 %%% SETTINGS %%%
 % Scaling factor for random initial point (glucose uptake rate recommended) 
 % and numbers of repeat initial start
-randscale = 24.62;
+randscale = 23.365;
 repeat = 200;
 
 % Constraining flux bounds for selected reactions
@@ -24,8 +24,7 @@ repeat = 200;
 vbset = true;
 vbfrombestfit = true;
 vbs = {{'BIOMASS.f', 0, 0.0001},...
-    {'EX_glc__D_e.f', 0, 0.0001},...
-    {'EX_o2_e.f', 0, 0.0001}};
+    {'EX_glc__D_e.f', 0, 0.0001}};
 
 % Safe run on/off: if on, enabling saving with v7.3 setting
 % Saved MATLAB objects are heavier but this is required for some
@@ -33,7 +32,7 @@ vbs = {{'BIOMASS.f', 0, 0.0001},...
 run_safe = false;
 
 % Find best-fit enabling
-run_bestfit = false;
+run_bestfit = true;
 
 % Run flux confidence interval estimation enabling
 run_fconf = true;
