@@ -1,8 +1,8 @@
 # File repository for 13C-metabolic flux analysis of yeasts
 This repository provides Supplementary files regarding 13C-metabolic flux analysis (13C-MFA) that are part of the manuscripts:<br>
-**Proteome capacity constraints favor respiratory ATP generation**<br>
-Yihui Shen, Hoang V. Dinh, Edward Cruz, Catherine M. Call, Heide Baron, Rolf-Peter Ryseck, Jimmy Pratas, Arjuna Subramanian, Zia Fatma, Daniel Weilandt, Sudharsan Dwaraknath, Tianxia Xiao, John I. Hendry, Vinh Tran, Lifeng Yang, Yasuo Yoshikuni, Huimin Zhao, Costas D. Maranas, Martin Wuhr, Joshua D. Rabinowitz<br>
-bioRxiv 2022.08.10.503479; doi: https://doi.org/10.1101/2022.08.10.503479
+**Mitochondrial ATP generation is more proteome efficient than glycolysis**<br>
+Yihui Shen, Hoang V. Dinh, Edward R. Cruz, Zihong Chen, Caroline R. Bartman, Tianxia Xiao, Catherine M. Call, Rolf-Peter Ryseck, Jimmy Pratas, Daniel Weilandt, Heide Baron, Arjuna Subramanian, Zia Fatma, Zong-Yen Wu, Sudharsan Dwaraknath, John I. Hendry, Vinh G. Tran, Lifeng Yang, Yasuo Yoshikuni, Huimin Zhao, Costas D. Maranas, Martin Wühr & Joshua D. Rabinowitz<br>
+Nature Chemical Biology. 2024. [doi: https://doi.org/10.1101/2022.08.10.503479](https://doi.org/10.1038/s41589-024-01571-y)
 <br>
 <br>
 **Comparative study of two *Saccharomyces cerevisiae* strains with kinetic model at genome-scale**<br>
